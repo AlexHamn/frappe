@@ -2160,7 +2160,7 @@ msgstr "Permitido"
 #. DocType 'System Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
 msgid "Allowed Doctypes for Guest Uploads"
-msgstr ""
+msgstr "Tipos de documento permitidos para archivos de invitados"
 
 #. Label of the allowed_file_extensions (Small Text) field in DocType 'System
 #. Settings'
@@ -3571,7 +3571,7 @@ msgstr "De vuelta a casa"
 
 #: frappe/www/login.html:188 frappe/www/update-password.html:92
 msgid "Back to sign in"
-msgstr ""
+msgstr "Volver al inicio de sesión"
 
 #. Label of the bg_color (Select) field in DocType 'Desktop Icon'
 #. Label of the background_color (Color) field in DocType 'Number Card'
@@ -6151,7 +6151,7 @@ msgstr "Crear y Continuar"
 
 #: frappe/templates/includes/login/login.js:152 frappe/templates/signup.html:18
 msgid "Create Account"
-msgstr ""
+msgstr "Crear cuenta"
 
 #: frappe/public/js/frappe/ui/address_autocomplete/autocomplete_dialog.js:49
 msgid "Create Address"
@@ -7788,7 +7788,7 @@ msgstr "No se eliminó"
 
 #: frappe/www/login.html:219
 msgid "Didn't receive the link?"
-msgstr ""
+msgstr "¿No recibiste el enlace?"
 
 #: frappe/public/js/frappe/utils/diffview.js:57
 msgid "Diff"
@@ -9482,7 +9482,7 @@ msgstr "El correo electrónico es obligatorio para crear el correo electrónico 
 
 #: frappe/templates/includes/login/login.js:24
 msgid "Email is required."
-msgstr ""
+msgstr "El correo electrónico es obligatorio."
 
 #. Label of the email_notification_types (Table MultiSelect) field in DocType
 #. 'Notification Settings'
@@ -9697,7 +9697,7 @@ msgstr "Habilitar seguridad"
 #. Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
 msgid "Enable Snapshot Reports"
-msgstr ""
+msgstr "Habilitar informes de instantáneas"
 
 #. Label of the enable_social_login (Check) field in DocType 'Social Login Key'
 #: frappe/integrations/doctype/social_login_key/social_login_key.json
@@ -11688,7 +11688,7 @@ msgstr "¿Se te olvidó tu contraseña?"
 
 #: frappe/www/login.html:48
 msgid "Forgot password?"
-msgstr ""
+msgstr "¿Olvidaste tu contraseña?"
 
 #. Label of the form_builder_tab (Tab Break) field in DocType 'DocType'
 #. Option for the 'Apply To' (Select) field in DocType 'Client Script'
@@ -11959,7 +11959,7 @@ msgstr "Ancho completo"
 
 #: frappe/templates/includes/login/login.js:53
 msgid "Full name is required."
-msgstr ""
+msgstr "El nombre completo es obligatorio."
 
 #. Label of the function (Select) field in DocType 'Number Card'
 #. Label of the report_function (Select) field in DocType 'Number Card'
@@ -12323,7 +12323,7 @@ msgstr "Google Calendar ha sido configurado."
 #. Label of a Workspace Sidebar Item
 #: frappe/workspace_sidebar/integrations.json
 msgid "Google Calender"
-msgstr ""
+msgstr "Calendario de Google"
 
 #. Label of the sb_00 (Section Break) field in DocType 'Contact'
 #. Label of the google_contacts (Link) field in DocType 'Contact'
@@ -14561,7 +14561,7 @@ msgstr "Tipo de condición no válida en filtros anidados: {0}"
 
 #: frappe/templates/includes/login/login.js:328
 msgid "Invalid credentials, try again."
-msgstr ""
+msgstr "Credenciales incorrectas. Inténtalo de nuevo."
 
 #: frappe/database/query.py:1359
 msgid "Invalid direction in Order By: {0}. Must be 'ASC' or 'DESC'."
@@ -15855,7 +15855,7 @@ msgstr "Vamos a configurar su cuenta"
 
 #: frappe/www/login.html:151
 msgid "Let's setup your account."
-msgstr ""
+msgstr "Vamos a configurar tu cuenta."
 
 #: frappe/public/js/frappe/widgets/onboarding_widget.js:263
 #: frappe/public/js/frappe/widgets/onboarding_widget.js:304
@@ -16503,7 +16503,7 @@ msgstr "Caducidad del inicio de sesión con enlace de correo electrónico (en mi
 
 #: frappe/www/login.html:224
 msgid "Login with password"
-msgstr ""
+msgstr "Iniciar sesión con contraseña"
 
 #: frappe/auth.py:150
 msgid "Login with username and password is not allowed."
@@ -16896,7 +16896,7 @@ msgstr "Valor Máximo"
 #. Label of the max_zip_extract_size (Int) field in DocType 'System Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
 msgid "Max Zip Extract Size (MB)"
-msgstr ""
+msgstr "Tamaño máximo de extracción de ZIP (MB)"
 
 #. Label of the max_attachment_size (Int) field in DocType 'Web Form'
 #: frappe/website/doctype/web_form/web_form.json
@@ -20846,7 +20846,7 @@ msgstr "Por favor, compruebe sus credenciales de acceso de correo electrónico."
 
 #: frappe/www/login.html:202
 msgid "Please check your email."
-msgstr ""
+msgstr "Revisa tu correo electrónico."
 
 #: frappe/twofactor.py:240
 msgid "Please check your registered email address for instructions on how to proceed. Do not close this window as you will have to return to it."
@@ -20952,7 +20952,7 @@ msgstr "Por favor, introduzca una dirección de correo válida."
 
 #: frappe/templates/includes/login/login.js:49
 msgid "Please enter a valid email."
-msgstr ""
+msgstr "Ingresa un correo electrónico válido."
 
 #: frappe/templates/includes/contact.js:15
 msgid "Please enter both your email and message so that we can get back to you. Thanks!"
@@ -20973,7 +20973,7 @@ msgstr "Por favor, ingrese un numero de móvil válido"
 
 #: frappe/www/login.html:166
 msgid "Please enter your email, we'll send you password reset link"
-msgstr ""
+msgstr "Ingresa tu correo electrónico y te enviaremos un enlace para restablecer tu contraseña"
 
 #: frappe/www/update-password.html:150
 msgid "Please enter your new password."
@@ -23516,7 +23516,7 @@ msgstr "Res: {0}"
 #: frappe/core/doctype/user_invitation/user_invitation.js:17
 #: frappe/www/login.html:219
 msgid "Resend"
-msgstr ""
+msgstr "Reenviar"
 
 #: frappe/desk/doctype/form_tour/form_tour.js:101
 #: frappe/desk/doctype/global_search_settings/global_search_settings.js:94
@@ -25220,7 +25220,7 @@ msgstr "Enviar correo electrónico al creador"
 
 #: frappe/templates/includes/login/login.js:151 frappe/www/login.html:184
 msgid "Send Link"
-msgstr ""
+msgstr "Enviar enlace"
 
 #. Label of the send_me_a_copy (Check) field in DocType 'User'
 #: frappe/core/doctype/user/user.json
@@ -26324,7 +26324,7 @@ msgstr "Barra lateral y Comentarios"
 #: frappe/www/login.html:98 frappe/www/login.html:120 frappe/www/login.html:136
 #: frappe/www/login.html:195
 msgid "Sign In"
-msgstr ""
+msgstr "Iniciar sesión"
 
 #. Label of the sign_out (Button) field in DocType 'User Session Display'
 #: frappe/core/doctype/user_session_display/user_session_display.json
@@ -26333,7 +26333,7 @@ msgstr "Cerrar sesión"
 
 #: frappe/www/login.html:151
 msgid "Sign Up"
-msgstr ""
+msgstr "Registrarse"
 
 #. Label of the sign_up_and_confirmation_section (Section Break) field in
 #. DocType 'Email Group'
@@ -26571,7 +26571,7 @@ msgstr ""
 #. 'System Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
 msgid "Snapshot Reports"
-msgstr ""
+msgstr "Informes de instantáneas"
 
 #: frappe/printing/doctype/letter_head/letter_head.js:47
 msgid "Snippet and more variables:  {0}"
@@ -27564,12 +27564,12 @@ msgstr ""
 #. Label of the sync_in_batch (Check) field in DocType 'System Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
 msgid "Sync In Batches"
-msgstr ""
+msgstr "Sincronizar por lotes"
 
 #. Label of the sync_timeout (Int) field in DocType 'System Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
 msgid "Sync Timeout (Seconds)"
-msgstr ""
+msgstr "Tiempo límite de sincronización (segundos)"
 
 #. Label of the sync_as_public (Check) field in DocType 'Google Calendar'
 #: frappe/integrations/doctype/google_calendar/google_calendar.json
@@ -31737,7 +31737,7 @@ msgstr "Bienvenido a {0}"
 #: frappe/www/login.html:120 frappe/www/login.html:136
 #: frappe/www/login.html:195
 msgid "Welcome! Please sign in to continue."
-msgstr ""
+msgstr "¡Bienvenido! Inicia sesión para continuar."
 
 #. Description of the 'Email' (Section Break) field in DocType 'Notification
 #. Log'
